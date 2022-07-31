@@ -17,7 +17,7 @@ router.get('/', (req, res) => {
       },
     ],
   })
-  TouchEvent((dbTagData) => res.json(dbTagData))
+  .then((dbTagData) => res.json(dbTagData))
   .catch ((err) => {
     console.log(err);
     res.status(500).json(err);
