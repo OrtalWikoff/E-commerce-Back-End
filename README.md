@@ -3,6 +3,12 @@ E-commerce, is the largest sector of the electronics industry.I built the back e
 
 Here is a link to a walkthrough videos that demonstrates the functionality of the application:
 
+1. POST, PUT, and DELETE routes for tags
+https://watch.screencastify.com/v/xDRwAnIrBBeyXfwcAK8Q
+
+2. POST, PUT, and DELETE routes for categories and products
+https://watch.screencastify.com/v/o36XT6bq8EElzP7sPSSJ
+
 
 Here is a screenshot of the application:
 
